@@ -1994,8 +1994,8 @@
         },
         {
           "atomType": "Extrude",
-          "x": 0.3579335793357934,
-          "y": 0.7666666666666666,
+          "x": 0.3601190476190476,
+          "y": 0.7865707434052759,
           "uniqueID": 1735934177780,
           "ioValues": [
             {
@@ -2099,8 +2099,8 @@
         },
         {
           "atomType": "GitHubMolecule",
-          "x": 0.5138376383763837,
-          "y": 0.7181818181818181,
+          "x": 0.5148809523809524,
+          "y": 0.7074340527577938,
           "uniqueID": 1735934045532,
           "name": "Linear-Pattern",
           "ioValues": [
@@ -2274,18 +2274,6 @@
           },
           "unitsKey": "Inches",
           "fileTypeVersion": 1
-        },
-        {
-          "atomType": "Assembly",
-          "x": 0.46964285714285714,
-          "y": 0.9304556354916067,
-          "uniqueID": "id-331",
-          "ioValues": [
-            {
-              "name": "Shape 1",
-              "ioValue": null
-            }
-          ]
         }
       ],
       "allConnectors": [
@@ -2408,11 +2396,6 @@
           "ap2Name": "geometry",
           "ap1ID": 1735934045532,
           "ap2ID": 1735941417070
-        },
-        {
-          "ap2Name": "Shape 1",
-          "ap1ID": 1735934045532,
-          "ap2ID": "id-331"
         }
       ],
       "fileTypeVersion": 1
